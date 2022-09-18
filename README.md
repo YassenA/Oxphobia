@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Oxphobia
 
+<!-- 👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br> -->
+
 # 💫 About Me:
-🔭 I’m currently working on Image  compresssion <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C++<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Image compresssion program <br>🌱 I’m currently learning C++<br>💬 Ask me about compilers <br>⚡ Fun fact, C++ was originally called "the new C"
 
 
 ## 🌐 Socials:
