@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yassen Ahmed)  <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassen-ahmed-19a8a91bb/)  <br/>
 [LinkedIn](https://linkedin.com/in/Yassen Ahmed) 
 
 # 💻 Tech Stack:
